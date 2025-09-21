@@ -1,0 +1,14 @@
+{
+	"file": "https://www.dropbox.com/scl/fi/yr2m6dikpq63ba1zk31k6/orthogroup_counts_bool2_semicol.txt?rlkey=n6g4fh34izzpl1fybfdy1tqx2&st=vzst3h8a&dl=0",
+	"name": "OrthoFinder",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "OrthoGroup" },
+		{ "type": "integer", "index": 10, "name": "Total" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 9 }
+	]
+}
